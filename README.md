@@ -1,2 +1,2 @@
 # LaTeX
-LaTeX TikZ figures
+LaTeX figures
